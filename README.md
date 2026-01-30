@@ -23,6 +23,6 @@ I enjoy building practical, user-focused applications across web and mobile, and
 
 **Reach me:**
 - [LinkedIn](https://www.linkedin.com/in/yvonne-wangechi-305322331)
-- [Portfolio](https://github.com/Gicheru-yvonne/portfolio)
+- [Portfolio](https://gicheru-yvonne.github.io/portfolio/)
 
   
