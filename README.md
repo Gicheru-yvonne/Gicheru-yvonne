@@ -1,25 +1,25 @@
 ## Hi, I’m Yvonne 👋
 
-I’m a Software Engineer based in Dublin, recently completed an Masters in Computer Science at Griffith College.
-I hold a Bachelor’s degree in Business Information Technology from KCA University.
+I'm a Software Engineer based in Dublin with an MSc in Computer Science. I enjoy building software using JavaScript, Node.js, Express.js, and PostgreSQL, with a particular interest in backend and full-stack development.
 
-I enjoy building practical, user-focused applications across web and mobile, and I’m especially interested in frontend engineering, system usability, and developer experience.
+I'm currently contributing to the development of a React Native application at Napblog while continuing to build personal projects that strengthen my backend engineering skills.
 
-### What I work with
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js, TypeScript  
-- **Backend:** Node.js, Express, FastAPI, Firebase  
-- **Databases:** PostgreSQL, SQLite, PostGIS  
-- **Mobile:** Kotlin (Android / Jetpack Compose)  
-- **Dev Tools:** Git, GitHub Actions, CI/CD, REST APIs  
+### What you'll find here
+ Web GIS application for Nairobi's public transport system (MSc dissertation)
+ REST API and backend development projects
+Database-driven web applications
+Technical experiments and coding challenges 
 
-### Currently
-- Software Engineering Intern at Napblog, working on platform testing, usability evaluation, and bug identification for NapblogOS
 
-### Interests
-- Building clean, maintainable interfaces  
-- Improving UX through thoughtful engineering  
-- Learning how systems behave at scale
-- Open-source, AI tools, and developer communities  
+**### Technologies**
+JavaScript
+Node.js
+Express.js
+PostgreSQL
+React
+React Native
+FastAPI
+Git 
 
 **Reach me:**
 - [LinkedIn](https://www.linkedin.com/in/yvonne-wangechi-305322331)
